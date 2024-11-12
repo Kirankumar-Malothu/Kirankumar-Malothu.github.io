@@ -199,8 +199,4 @@
         <p>&copy; 2024 Kirankumar Malothu</p>
     </footer>
 
-    <!-- JavaScript -->
-    <script>
-        // Placeholder for future JavaScript functionality if needed
-    </script>
 </body>
