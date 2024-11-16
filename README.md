@@ -108,7 +108,7 @@
     <!-- Header -->
     <header>
     <div style="text-align: center;">
-        <img src="https://i.postimg.cc/HsVpGts4/Photograp.jpg" style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+        <img src="https://i.postimg.cc/prdnMnph/8-F9-C2-A90-8-AAB-495-B-9-D07-A3788-F86541-B.jpg" style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
     </div>
     <h1>Kirankumar Malothu</h1>
     <p>Robotics Program Coordinator @ SpeEdLabs | Master's in Applied Mechanics | 3D Computer Aided Design (3D CAD) | Solid Mechanics</p>
