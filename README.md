@@ -107,8 +107,11 @@
 
     <!-- Header -->
     <header>
-        <h1>Kirankumar Malothu</h1>
-        <p>Robotics Program Coordinator @ SpeEdLabs | Master's in Applied Mechanics | 3D Computer Aided Design (3D CAD) | Solid Mechanics</p>
+    <div style="text-align: center;">
+        <img src="https://github.com/Kirankumar-Malothu/Kirankumar-Malothu.github.io/blob/website/Photograp.jpg" style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+    </div>
+    <h1>Kirankumar Malothu</h1>
+    <p>Robotics Program Coordinator @ SpeEdLabs | Master's in Applied Mechanics | 3D Computer Aided Design (3D CAD) | Solid Mechanics</p>
     </header>
 
     <!-- Navigation -->
